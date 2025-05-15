@@ -1,0 +1,27 @@
+05/14/2025
+
+Practice: React Movie App
+
+===== INSTRUCTIONS =====
+You will create a simple React application where users can:
+1. Select a movie genre from a dropdown menu.
+2. See a list of movies based on the selected genre.
+3. View a loading message while the app "fetches" movie data.
+4. Display an error message if no genre is selected and the user tries to fetch data.
+
+Steps:
+1. Initial Setup
+    ● Create a React app.
+    ● Create a component named MovieSelector.
+2. Requirements
+    ● Use state to manage:
+        ○ selectedGenre (string): Tracks the currently selected genre.
+        ○ isLoading (boolean): Indicates if the app is "loading" movie data.
+        ○ error (string): Stores error messages, if any.
+        ○ movies (array): Holds the list of movies for the selected genre.
+3. Functionality
+    ● Dropdown menu to select a genre (e.g., Action, Comedy, Drama).
+    ● Button to "Fetch Movies" for the selected genre.
+    ● Display a list of movies after "fetching."
+    ● Show a loading spinner while fetching data.
+    ● Display an error message if no genre is selected.
