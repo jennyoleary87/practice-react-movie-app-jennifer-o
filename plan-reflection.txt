@@ -1,0 +1,26 @@
+05/14/2025
+
+1. fantasy
+    ~ Lord of the Rings
+    ~ The Princess Bride
+    ~ Harry Potter and the Prisoner of Azkaban
+2. Action
+    ~ Indiana Jones: Raiders of the Lost Ark
+    ~ The Hunger Games: The Ballad of Songbirds and Snakes
+    ~ Divergent
+3. Adventure
+    ~ Barbie 12 Dancing Princesses
+    ~ Barbie Diamond Castle
+    ~ Barbie Island Princess
+
+=== LOADER SPINNER: ===
+https://www.w3schools.com/howto/howto_css_loader.asp 
+Create the border first before adding border top or bottom.
+Set animation speed to 2 seconds.
+
+=== REFLECTION: ===
+What issues did I run into?
+    It took me a while to realize that the option values 
+    needed to match the keys in the Movies object. I did reference
+    W3 Schools for most of these concepts.
+
